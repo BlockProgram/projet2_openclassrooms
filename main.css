@@ -435,19 +435,30 @@ li {
     height: 150px;
   }
 
+  .title-right {
+    font-size: 1.4rem;
+    margin-left: 20px;
+  }
+
   .name {
     margin: 48px auto 8px;
   }
 
   .title-name:after {
-    top: 170px;
+    top: 225px;
+  }
+
+  .fa-dot-circle {
+    margin-left: 90px;
   }
 
   .right-block {
     margin-left: 20px;
+    margin-top: 15px;
   }
 
+  .list-one,
   .list-two {
-    margin-left: 40px;
+    margin: 20px auto;
   }
 }
