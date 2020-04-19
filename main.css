@@ -443,10 +443,11 @@ li {
 
   .name {
     margin: 48px auto 8px;
+    line-height: 1.1;
   }
 
   .title-name:after {
-    top: 225px;
+    top: 160px;
   }
 
   .right-block {
@@ -454,8 +455,18 @@ li {
     margin-top: 15px;
   }
 
+  .title-item {
+    font-size: 1rem;
+  }
+
   .list-one,
   .list-two {
     margin: 20px auto;
+  }
+}
+
+@media (max-width: 428px) {
+  .title-name:after {
+    top: 200px;
   }
 }
