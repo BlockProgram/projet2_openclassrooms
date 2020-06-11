@@ -1,6 +1,6 @@
 # Project n°2 - *[OpenClassrooms Web Dev' Bootcamp](https://openclassrooms.com/fr/paths/141-web-developer)*
 
-My first responsive Boostrap website. We had to create our online CV using the template below: 
+My first responsive Boostrap website. We had to create our online CV using the layout template below: 
 
 
 
